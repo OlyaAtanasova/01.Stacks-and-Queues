@@ -1,0 +1,14 @@
+C:\Users\olyaa\source\repos\Stacks and Queues\04. Matching Brackets\bin\Debug\netcoreapp3.1\04. Matching Brackets.exe
+C:\Users\olyaa\source\repos\Stacks and Queues\04. Matching Brackets\bin\Debug\netcoreapp3.1\04. Matching Brackets.deps.json
+C:\Users\olyaa\source\repos\Stacks and Queues\04. Matching Brackets\bin\Debug\netcoreapp3.1\04. Matching Brackets.runtimeconfig.json
+C:\Users\olyaa\source\repos\Stacks and Queues\04. Matching Brackets\bin\Debug\netcoreapp3.1\04. Matching Brackets.runtimeconfig.dev.json
+C:\Users\olyaa\source\repos\Stacks and Queues\04. Matching Brackets\bin\Debug\netcoreapp3.1\04. Matching Brackets.dll
+C:\Users\olyaa\source\repos\Stacks and Queues\04. Matching Brackets\bin\Debug\netcoreapp3.1\04. Matching Brackets.pdb
+C:\Users\olyaa\source\repos\Stacks and Queues\04. Matching Brackets\obj\Debug\netcoreapp3.1\04. Matching Brackets.csproj.AssemblyReference.cache
+C:\Users\olyaa\source\repos\Stacks and Queues\04. Matching Brackets\obj\Debug\netcoreapp3.1\04. Matching Brackets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olyaa\source\repos\Stacks and Queues\04. Matching Brackets\obj\Debug\netcoreapp3.1\04. Matching Brackets.AssemblyInfoInputs.cache
+C:\Users\olyaa\source\repos\Stacks and Queues\04. Matching Brackets\obj\Debug\netcoreapp3.1\04. Matching Brackets.AssemblyInfo.cs
+C:\Users\olyaa\source\repos\Stacks and Queues\04. Matching Brackets\obj\Debug\netcoreapp3.1\04. Matching Brackets.csproj.CoreCompileInputs.cache
+C:\Users\olyaa\source\repos\Stacks and Queues\04. Matching Brackets\obj\Debug\netcoreapp3.1\04. Matching Brackets.dll
+C:\Users\olyaa\source\repos\Stacks and Queues\04. Matching Brackets\obj\Debug\netcoreapp3.1\04. Matching Brackets.pdb
+C:\Users\olyaa\source\repos\Stacks and Queues\04. Matching Brackets\obj\Debug\netcoreapp3.1\04. Matching Brackets.genruntimeconfig.cache

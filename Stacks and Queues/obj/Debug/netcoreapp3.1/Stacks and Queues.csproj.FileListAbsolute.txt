@@ -1,0 +1,14 @@
+C:\Users\olyaa\source\repos\Stacks and Queues\Stacks and Queues\bin\Debug\netcoreapp3.1\Stacks and Queues.exe
+C:\Users\olyaa\source\repos\Stacks and Queues\Stacks and Queues\bin\Debug\netcoreapp3.1\Stacks and Queues.deps.json
+C:\Users\olyaa\source\repos\Stacks and Queues\Stacks and Queues\bin\Debug\netcoreapp3.1\Stacks and Queues.runtimeconfig.json
+C:\Users\olyaa\source\repos\Stacks and Queues\Stacks and Queues\bin\Debug\netcoreapp3.1\Stacks and Queues.runtimeconfig.dev.json
+C:\Users\olyaa\source\repos\Stacks and Queues\Stacks and Queues\bin\Debug\netcoreapp3.1\Stacks and Queues.dll
+C:\Users\olyaa\source\repos\Stacks and Queues\Stacks and Queues\bin\Debug\netcoreapp3.1\Stacks and Queues.pdb
+C:\Users\olyaa\source\repos\Stacks and Queues\Stacks and Queues\obj\Debug\netcoreapp3.1\Stacks and Queues.csproj.AssemblyReference.cache
+C:\Users\olyaa\source\repos\Stacks and Queues\Stacks and Queues\obj\Debug\netcoreapp3.1\Stacks and Queues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olyaa\source\repos\Stacks and Queues\Stacks and Queues\obj\Debug\netcoreapp3.1\Stacks and Queues.AssemblyInfoInputs.cache
+C:\Users\olyaa\source\repos\Stacks and Queues\Stacks and Queues\obj\Debug\netcoreapp3.1\Stacks and Queues.AssemblyInfo.cs
+C:\Users\olyaa\source\repos\Stacks and Queues\Stacks and Queues\obj\Debug\netcoreapp3.1\Stacks and Queues.csproj.CoreCompileInputs.cache
+C:\Users\olyaa\source\repos\Stacks and Queues\Stacks and Queues\obj\Debug\netcoreapp3.1\Stacks and Queues.dll
+C:\Users\olyaa\source\repos\Stacks and Queues\Stacks and Queues\obj\Debug\netcoreapp3.1\Stacks and Queues.pdb
+C:\Users\olyaa\source\repos\Stacks and Queues\Stacks and Queues\obj\Debug\netcoreapp3.1\Stacks and Queues.genruntimeconfig.cache
